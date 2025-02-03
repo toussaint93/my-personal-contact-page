@@ -2,7 +2,7 @@
 const Hero = ({ title = 'It is my pleasure to connect! ', subtitle = 'Please take a look at the ways to connect with me, and I cannot wait to chat soon!' }) => {
   return (
     <>
-    <section className="bg-indigo-700 py-20 mb-4">
+    <section className="bg-gray-700 py-20 mb-4">
     <div
       className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center"
     >

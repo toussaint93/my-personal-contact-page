@@ -13,23 +13,13 @@
       "title": "LinkedIn",
       "type": "Professional Profile",
       "description": "Your network is your networth! Lets connect, and see how we can support each-other! Cannot wait to cheer on the things you are up to!",
-      "location": "Calgary, AB",
-      "contactEmail": "contact@teksolutions.com",
-      "contactPhone": "555-555-5555"
+      "location": "Calgary, AB"
       },
     {
       "id": "3",
      "title": "Email & Phone",
       "type": "Personal Contact",
-      "description": "I would Love the opportunity to connect with you! Feel free to send me an email at william@outsidethebox.dev. You can also drop me a line at +1-403-714-8006",
+      "description": "I would Love the opportunity to connect with you! Feel free to send me an email, or drop me a line!",
       "location": "Calgary, AB"
-      },
-    {
-      "id": "4",
-      "title": "React Front-End Developer",
-      "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Pheonix, AZ"
-
       }
-  ]
+    ]

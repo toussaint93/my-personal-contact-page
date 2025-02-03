@@ -12,22 +12,22 @@ function HomeCards() {
             Please check out the ways to connect with me socially, and choose a option that works best for you!
           </p>
           <a
-            
+            href="https://www.instagram.com/"
             className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
           >
-            Connect
+            Send a Request
           </a>
        </Card>
-       <Card bg='bg-indigo-100'>
+       <Card bg='bg-gray-300-'>
        <h2 className="text-2xl font-bold">For Business</h2>
           <p className="mt-2 mb-4">
             We are all up to some incredible things! Please connect with me in a way that works best for you!
           </p>
           <a
-            href="/add-job.html"
-            className="inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600"
+            href="https://github.com/toussaint93"
+            className="inline-block bg-gray-500 text-white rounded-lg px-4 py-2 hover:bg-gray-600"
           >
-            Please Contact
+            Please Connect
           </a>
        </Card>
       </div>
