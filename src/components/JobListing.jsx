@@ -23,7 +23,7 @@ if (!showFullDescription) {
 
         <button onClick={() => setShowFullDescription((prevState) => !prevState)} className="text-indigo-500 mb-5 hover:text-indigo-600">{showFullDescription ? 'less' : 'more'}</button>
 
-        <h3 className="text-indigo-500 mb-2">{job.connections} </h3>
+        <h3 className="text-black-500 mb-2">{job.connections} </h3>
 
         <div className="border border-gray-100 mb-5"></div>
 
